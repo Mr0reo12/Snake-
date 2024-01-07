@@ -1,0 +1,32 @@
+* 
+    {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+       
+    }
+
+h1
+    {
+        font-size: 9vh;
+        color: #196F3D;
+        text-transform : uppercase;
+        padding: 40px;
+        font-family: "Finger Paint", cursive;
+    }
+
+body
+    {
+        text-align: center;
+        font-family: 'Courier New', Courier, monospace;
+        background: #AEE970;
+
+    }
+canvas
+    {
+        position: relative;
+        box-shadow: black 10px 10px 50px;
+        top: 2vh;
+        border: 10px;
+    }
+
